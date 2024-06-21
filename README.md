@@ -9,3 +9,7 @@ let a = undefined;
 let b = null;
 let c = b + '4 2';
 ```
+
+### Homework Finished 22/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
